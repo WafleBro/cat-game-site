@@ -17,4 +17,10 @@ You play as a cat.
 ## Reviews
 
 Someone said:
->I haven't even seen the game!
+>I haven't even seen the game but sounds cool!
+
+## **IMPORTANT NOTES**
+
+*The game does not (yet) exist.
+*The site is a work-in-progress
+*I'm a begginer, please don't judge me!
